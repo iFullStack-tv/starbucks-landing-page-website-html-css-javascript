@@ -1,9 +1,9 @@
-<h1 align="center">Starbucks Landing Page Alternativo usando HTML5, CSS3 & JavaScript</h1>
+<h1 align="center">Starbucks Page Alternativa usando HTML5, CSS3 & JavaScript</h1>
 
 <p>Neste repositório criamos uma landing page design do Starbucks em html5, css3 & javascript com <a href="https://youtu.be/IHu_Yo1dhOU">vídeo aula</a> em nosso <a href="https://www.youtube.com/channel/UCDUs_tL_rNpmwR3Ep7ZtchA?sub_confirmation=1">Canal do Youtube</a>.</p>
 
 <a href="https://ifullstack-tv.github.io/parallax-scrolling-website/">Demo</a>
-<a href="https://ifullstack-tv.github.io/parallax-scrolling-website/"><img src="https://github.com/iFullStack-tv/parallax-scrolling-website/blob/main/demo.gif" width="100%"></a>
+<a href="https://ifullstack-tv.github.io/parallax-scrolling-website/"><img src="https://github.com/iFullStack-tv/starbucks-landing-page-website-html-css-javascript/blob/main/demo.gif" width="100%"></a>
 
 <div align="center">
 <h3>Connect with us:</h3>
